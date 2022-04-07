@@ -5,17 +5,14 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+### Hi there 👋
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+- 🔭 I’m currently working on XiD
+- 🌱 I’m currently learning NestJS
+- 👯 I’m looking to collaborate on NestJS
+- 🤔 I’m looking for help with NestJS
+- 💬 Ask me about Laravel, VueJs and a little bit Django
+- 📫 How to reach me: [Twitter](https://twitter.com/ajCarrilloH)
+- ⚡ Fun fact: I'm a MTB newbie rider
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
-
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
 
